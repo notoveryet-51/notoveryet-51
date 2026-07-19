@@ -7,12 +7,6 @@
 </a>
 
 <br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandipan-ray14)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sray387.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notoveryet-51)
-[![Profile Views](https://komarev.com/ghpvc/?username=notoveryet-51&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/notoveryet-51)
-
 </div>
 
 ---
@@ -96,6 +90,8 @@ An AI-powered document assistant that lets users upload documents, ask natural l
 ![Stars](https://img.shields.io/github/stars/notoveryet-51?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=1a1b27&labelColor=FF6B35)
 ![Repos](https://img.shields.io/badge/Public%20Repos-13-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=a855f7)
 ![Commits](https://img.shields.io/badge/Total%20Commits-2.4k+-1a1b27?style=for-the-badge&logo=git&logoColor=white&labelColor=22c55e)
+[![Profile Views](https://komarev.com/ghpvc/?username=notoveryet-51&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/notoveryet-51)
+
 
 </div>
 
