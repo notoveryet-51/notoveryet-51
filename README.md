@@ -62,13 +62,19 @@ const sandipan = {
 
 > Projects built alongside awesome teammates 🤝
 
-### 🎨 [Imagify](https://github.com/pragati956/Imagify) — AI Text-to-Image SaaS
+### 🎨 [Imagify 2.0](https://github.com/pragati956/Imagify) — Real-Time AI Creative Studio
 
 [![Repo](https://img.shields.io/badge/GitHub-Imagify-181717?style=flat-square&logo=github)](https://github.com/pragati956/Imagify)
-[![Live](https://img.shields.io/badge/Live-Demo-000?style=flat-square&logo=vercel)](https://imagify-client-sable.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-Demo-000?style=flat-square&logo=vercel)](https://imagify-six-ochre.vercel.app/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-MERN-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-A full-stack AI SaaS app where users convert text prompts into images. Features user auth, a credit-based model, payment integration, and a polished React UI — all deployed on Vercel.
+A multi-user collaborative platform that transforms the AI design process into a shared experience. Evolved from a standalone generator into a full-fledged real-time studio featuring role-based workspaces, live prompt syncing, and an advanced AI pipeline.
+
+**Core Upgrades:**
+*   **Live Co-Creation & Chat:** Real-time prompt synchronization, live image rendering, and persistent team chat featuring 1.5-second anti-spam limits powered by **Socket.io**.
+*   **Advanced AI Integrations:** Utilizes **Gemini AI** for intelligent prompt optimization and image-to-image style referencing, outputting high-fidelity renders via the **Pollinations.ai FLUX model**.
+*   **Secure Workspaces & RBAC:** Persistent project folders governed by **Role-Based Access Control (Owner/Editor/Viewer)**, complete with live activity feeds and custom regex-based content safety filtering.
+*   **Credit & Payment Ecosystem:** Secure monetization via **Razorpay** and **JWT authentication**, leveraging optimistic UI updates and frontend debouncing to prevent race conditions and duplicate database transactions.
 
 ---
 
@@ -79,6 +85,13 @@ A full-stack AI SaaS app where users convert text prompts into images. Features 
 ![JavaScript](https://img.shields.io/badge/JavaScript-MERN-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 An AI-powered document assistant that lets users upload documents, ask natural language questions, and get instant AI-generated answers and summaries — live on Vercel.
+
+**Key Features:**
+
+* **Live Co-Creation & Real-Time Chat:** Engineered a collaborative canvas using **Socket.io** with real-time prompt synchronization, live image rendering, and persistent team chat featuring 1.5-second anti-spam rate limiting.
+* **Multimodal AI Integration:** Integrated **Gemini AI** for automated prompt optimization and image-to-image style referencing, outputting high-fidelity renders via the **Pollinations.ai FLUX model**.
+* **Secure Workspaces & Granular RBAC:** Built persistent project folders governed by strict **Role-Based Access Control** (*Owner, Editor, Viewer*), paired with live activity feeds and regex-based safety filtering.
+* **Monetization & Payment Ecosystem:** Implemented secure credit processing via **Razorpay** and **JWT authentication**, using optimistic UI updates and frontend debouncing to prevent transaction race conditions.
 
 ---
 
