@@ -60,7 +60,6 @@ const sandipan = {
 
 ## 🚀 Featured Collaborations
 
-> Projects built alongside awesome teammates 🤝
 
 ### 🎨 [Imagify 2.0](https://github.com/pragati956/Imagify) — Real-Time AI Creative Studio
 
