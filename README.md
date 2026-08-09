@@ -87,10 +87,10 @@ An AI-powered document assistant that lets users upload documents, ask natural l
 
 **Key Features:**
 
-* **Live Co-Creation & Real-Time Chat:** Engineered a collaborative canvas using **Socket.io** with real-time prompt synchronization, live image rendering, and persistent team chat featuring 1.5-second anti-spam rate limiting.
-* **Multimodal AI Integration:** Integrated **Gemini AI** for automated prompt optimization and image-to-image style referencing, outputting high-fidelity renders via the **Pollinations.ai FLUX model**.
-* **Secure Workspaces & Granular RBAC:** Built persistent project folders governed by strict **Role-Based Access Control** (*Owner, Editor, Viewer*), paired with live activity feeds and regex-based safety filtering.
-* **Monetization & Payment Ecosystem:** Implemented secure credit processing via **Razorpay** and **JWT authentication**, using optimistic UI updates and frontend debouncing to prevent transaction race conditions.
+* **Intelligent Document Processing:** Utilizes **Gemini AI** to automatically extract text from multi-format files (PDF, DOCX, TXT) and generate concise summaries, key insights, and action items.
+* **Semantic Smart Search:** Features an advanced search engine that calculates relevance scores across document titles, AI-generated summaries, and custom tags, complete with search history tracking.
+* **Dynamic Workspaces & Analytics:** Employs smart collections for seamless document organization, paired with a real-time user activity feed and comprehensive storage utilization metrics.
+* **Secure Authentication & Cloud Storage:** Implements secure **Google/GitHub OAuth** and strict **JWT-based sessions**, routing file streams directly to **Cloudinary** alongside a robust password recovery pipeline.
 
 ---
 
